@@ -36,4 +36,4 @@ Diperlukan dua kolom:
 <p> Hasil yang didapatkan harus memiliki 18770 baris (tidak termasuk tajuk), masing-masing dengan 2 kolom. </p>
 
 
-# <center> <span style="color:BLUE"> &copy; Imam Aris Munandar </span> </center>
+## <center> <span style="color:BLUE"> &copy; Imam Aris Munandar </span> </center>
